@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0d1117&height=200&section=header&text=Thiyagu%20Arunachalam&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Builder%20%7C%20Typescript%20%7C%20Full%20Stack%20Dev&descAlignY=58&descColor=8b949e&animation=fadeIn" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+tools+at+%F0%9F%A6%8A+KitsuneChaos;TypeScript+%7C+Node.js+%7C+Python+%7C+Java;Shipping+projects%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+tools+at+%F0%9F%A6%8A+KitsuneChaos;TypeScript+%7C+Node.js+%7C+Python+%7C+Java;Shipping+projects%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
