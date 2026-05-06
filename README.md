@@ -130,14 +130,6 @@ TypeScript × Physics × AI × Interactive Learning
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiya11&show_icons=true&theme=github_dark&bg_color=020617&border_color=1e293b&title_color=58a6ff&icon_color=58a6ff&text_color=94a3b8&hide_border=false" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiya11&layout=compact&theme=github_dark&bg_color=020617&border_color=1e293b&title_color=58a6ff&text_color=94a3b8&hide_border=false" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Thiya11&theme=github-dark-blue&background=020617&border=1e293b&stroke=1e293b&ring=58a6ff&fire=38bdf8&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b)](https://git.io/streak-stats)
 
 </div>
